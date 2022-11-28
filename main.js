@@ -25,7 +25,7 @@ document.addEventListener('alpine:init', () => {
             ['6/10 - Good', 'You’re good, but you need to know many other useful techniques.'],
             ['7/10 - Adept', 'You have skills, but your missing out on some important knowledge.'],
             ['8/10 - Expert', 'Your a star. There is nothing else for you to learn. Just kidding.'],
-            ['9/10 - Ace', 'The force is strong in this one. But you can still improve.'],
+            ['9/10 - Ace', 'The force is strong with this one. But you can still improve.'],
             ['test09', 'test09']
         ],
         yes() {
